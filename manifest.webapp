@@ -1,0 +1,28 @@
+{
+  "name": "My Salat",
+  "description": "Prayer is the most important task in our daily life. But we miss our prayer because of right alert in right time. here we come up with our idea that is gonna help you to take your prayer in right time and in right direction. you can use it as a digital tasbih. if you are outside, search for your nearest mosque easily. Its an elegant and accurate App for getting prayer timings and Qibla direction, no matter where you are. Its stylish yet easy and convenient interface is designed to make sure that you are kept updated with the pray times.(1) Search nearest mosques.(2) Salat time of Fajr, Shrook, Zuhr, Asr, Magrib and Isha.(3) Best Islamic tool for every Muslim to follow his daily Solat (namaz) in home or Masjid and make Doaa for us. (4) Auto Silent Mode (For users who may forget to silent mobile in Masjid) Digital magnetic Compass using your phone/tablet sensor will quickly point to the Qiblah direction.(5)Tasbih for every salat separately.",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/icons/app_icon_16x16.png",
+    "48": "/icons/app_icon_48x48.png",
+    "60": "/icons/app_icon_60x60.png",
+    "128": "/icons/app_icon_128x128.png"
+  },"developer": {
+    "name": "OmeletIT",
+    "url": "http://www.omeletit.com"
+  },
+  "orientation": "portrait",
+  "default_locale": "en",
+  "type": "privileged",
+  "permissions": {
+    "systemXHR": {
+    	"description" : "Required for fetching nearest mosque and map."
+    },
+	"geolocation": {
+		"description" : "Required for providing offline prayer time, fetching nearest mosque and map."
+	}
+
+  },
+  "installs_allowed_from": ["*"],
+  "version": "1.1"
+}
