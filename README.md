@@ -1,5 +1,7 @@
 # MY Salat | FrefoxOS APP | jQuery Mobile | CSS
 
+[Marketplace Link](https://marketplace.firefox.com/app/mysalat?src=search)
+
 Prayer is the most important task in our daily life. But we miss our prayer because of right alert in right time. Here we came up with our idea that is going to help you to say your prayers in right time and in right direction. You can use it as a digital Tasbih. If you are outside, search for your nearest masjid easily.
 It’s an elegant and accurate app for getting Prayer Timings and Qiblah direction, no matter where you are. Its stylish yet easy and convenient interface is designed to make sure that you are kept updated with the prayer times.
 
